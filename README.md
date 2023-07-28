@@ -1,3 +1,3 @@
 # html-portfolio
 
-This is mmy first html project. 
+This is my first html project. 
